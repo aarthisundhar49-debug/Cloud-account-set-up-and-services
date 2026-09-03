@@ -67,3 +67,4 @@ This lab provided hands-on experience with AWS IAM by demonstrating how organiza
 
 
 ## Author
+Name: Aarthi B (212225230001) Course: Introduction to Cloud Computing
